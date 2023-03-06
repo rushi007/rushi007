@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rushikesh
-- 👀 I’m interested in Coding especially in Python, JavaScript and PHP
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in Coding especially in Python, JavaScript, Java and PHP
+- 🌱 I’m currently learning DynamoStreams
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mandal.rushi@gmail.com
 
