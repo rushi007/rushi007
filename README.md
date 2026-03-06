@@ -83,7 +83,7 @@ I enjoy designing and building **developer-quality test tooling** that integrate
 ## 📫 How to reach me
 
 📧 mandal.rushi@gmail.com  
-💼 LinkedIn: (add your LinkedIn profile here)
+💼 LinkedIn: https://www.linkedin.com/in/rushikesh-mandal-41305977/
 
 ---
 
