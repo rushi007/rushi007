@@ -1,10 +1,90 @@
-- 👋 Hi, I’m Rushikesh
-- 👀 I’m interested in Coding especially in Python, JavaScript, Java and PHP
-- 🌱 I’m currently learning DynamoStreams
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me mandal.rushi@gmail.com
+# 👋 Hi, I'm Rushikesh Mandal
 
-<!---
-rushi007/rushi007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Senior / Lead SDET | Test Automation Engineer | Developer
+
+I am a software engineer with strong experience in **Python and Java development**, currently working as a **Senior/Lead SDET at Irdeto**.  
+My work focuses on **building robust testing frameworks, performance engineering, and scalable automation tooling** for distributed systems.
+
+I enjoy designing and building **developer-quality test tooling** that integrates deeply into CI/CD pipelines and cloud-native environments.
+
+---
+
+## 🚀 What I Do
+
+- Build **test automation frameworks and developer tooling** from scratch
+- Design **performance and scalability testing systems**
+- Develop **component and integration testing frameworks**
+- Integrate testing pipelines into **CI/CD systems**
+- Work with **containerized and Kubernetes-based environments**
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+- Python
+- Java
+- TypeScript / JavaScript
+
+**Testing & Automation**
+- PyTest
+- Playwright
+- JUnit
+- BDD / TDD practices
+- Performance testing frameworks
+
+**Coverage & Quality**
+- JaCoCo
+- pytest-cov
+- Static analysis and quality gates
+
+**DevOps & Cloud Native**
+- Docker
+- Kubernetes
+- Helm
+- Skaffold
+- Jenkins
+- GitLab CI
+
+**Data & Messaging**
+- PostgreSQL
+- Event-driven architectures
+- AWS services (SQS, DynamoDB, etc.)
+
+---
+
+## 🧠 Engineering Interests
+
+- Performance engineering
+- Distributed systems testing
+- Developer productivity tooling
+- Scalable CI/CD testing pipelines
+- Cloud-native test environments
+
+---
+
+## 🌱 Currently Exploring
+
+- Advanced **Kubernetes-based test environments**
+- **Large-scale performance test orchestration**
+- **Event-driven architecture testing**
+
+---
+
+## 🤝 Open to Collaborate On
+
+- Test automation frameworks
+- Developer productivity tools
+- Performance testing platforms
+- Cloud-native testing infrastructure
+
+---
+
+## 📫 How to reach me
+
+📧 mandal.rushi@gmail.com  
+💼 LinkedIn: (add your LinkedIn profile here)
+
+---
+
+⭐ *I enjoy building tools that help teams ship reliable software faster.*
