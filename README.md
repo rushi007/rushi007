@@ -1,11 +1,9 @@
 # 👋 Hi, I'm Rushikesh Mandal
 
-Senior / Lead SDET | Test Automation Engineer | Developer
+Senior / Lead Backend Engineer | Performance & Scalability | Test Automation
 
-I am a software engineer with strong experience in **Python and Java development**, currently working as a **Senior/Lead SDET at Irdeto**.  
-My work focuses on **building robust testing frameworks, performance engineering, and scalable automation tooling** for distributed systems.
-
-I enjoy designing and building **developer-quality test tooling** that integrates deeply into CI/CD pipelines and cloud-native environments.
+I am a software engineer with strong experience in **Python and Java development**, currently working as a **Senior SDE at Irdeto**.  
+My work focuses on **building robust service in Java SpringBoot, performance engineering, and scalable automation tooling** for distributed systems.
 
 ---
 
@@ -24,6 +22,7 @@ I enjoy designing and building **developer-quality test tooling** that integrate
 **Languages**
 - Python
 - Java
+- SpringBoot
 - TypeScript / JavaScript
 
 **Testing & Automation**
